@@ -38,7 +38,8 @@ public class basetest {
     
 	
 	@Test
-	public void addProduct() throws IOException, InterruptedException {
+	public void addProduct() throws IOException, InterruptedException 
+	{
 		
 		home Home = new home(driver);
 		
